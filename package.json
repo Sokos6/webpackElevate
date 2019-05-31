@@ -1,0 +1,11 @@
+{
+  "name": "webpackElevate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Will Sokolowski <will.sokolowski@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  }
+}
